@@ -1,4 +1,4 @@
 # OpenCUDA
-This repository contains all my programs using CUDA and OpenCV for image processing, in C++.
+This repository contains all my programs using CUDA and OpenCV for image processing, written in C++.
 
-Not only the purpose is to code 'simple' programs accelerated using CUDA, but also some of the Deep Learning libraries such as CUDNN.
+The idea is to use as well some of the Deep Learning libraries available with OpenCV such as CUDNN, with pre-trained models or new ones.
