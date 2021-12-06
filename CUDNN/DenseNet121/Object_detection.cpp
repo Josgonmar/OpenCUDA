@@ -10,7 +10,7 @@ using namespace cv;
 using namespace dnn;
 
 int main() {
-	string path_files = "YOUR PATH TO THE IMAGES FOLDER";
+	string path_files = "YOUR PATH TO THE FILES FOLDER";
 	vector<string> class_names;
 	ifstream ifs(string(path_files + "MobileNet_SSD/object_detection_classes_coco.txt").c_str());
 	string line;
